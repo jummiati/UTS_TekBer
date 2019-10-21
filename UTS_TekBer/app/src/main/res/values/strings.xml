@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UTS_TekBer</string>
+    <string name="uts_teknologi_bergerak">KOMPONEN ANDROID STUDIO</string>
+    <string name="button1">Activity</string>
+    <string name="button2">Intent</string>
+    <string name="button3">service</string>
+    <string name="button4">Content Providers</string>
+    <string name="button5">Broadcast Receivers</string>
+    <string name="link_activity">http://android-beginner-lessons.blogspot.com/2015/10/android-mengenal-komponen-aplikasi.html</string>
+    <string name="buttone">Contoh Syntax Activity</string>
+    <string name="materi_activity">
+            Activity adalah komponen yang dapat dilihat oleh pengguna sehingga mereka dapat berinteraksi dengan aplikasi. Bila dibandingkan dengan aplikasi web dan desktop, Activity sama seperti halaman dan form. Activity diimplementasikan sebagai subclass dari class activity.</string>
+
+    <string name="materi_intent">Intent adalah mengirim atau menerima sebuah perintah dari aplikasi lain. Intent dalam sistem operasi Android adalah mekanisme perangkat lunak yang memungkinkan pengguna untuk mengoordinasikan fungsi berbagai aktivitas untuk mencapai suatu tugas</string>
+    <string name="link_int">http://android-beginner-lessons.blogspot.com/2015/10/android-mengenal-komponen-aplikasi.html </string>
+    <string name="buttona">Contoh Syntax Intent </string>
+
+    <string name="materi_service">Service adalah komponen yang berjalan di latar belakang. Sebagai contoh, Service bisa memainkan musik di latar belakang saat pengguna berada dalam aplikasi yang berbeda, atau mungkin mengambil data melalui jaringan tanpa menghalangi interaksi pengguna dengan aktivitas. Service diimplementasikan sebagai subclass dari class Service</string>
+    <string name="link_ser">http://android-beginner-lessons.blogspot.com/2015/10/android-mengenal-komponen-aplikasi.html </string>
+    <string name="buttonb">Contoh Syntax Service</string>
+
+    <string name="materi_contentproviders">ContentProvider adalah penyedia konten dari satu aplikasi ke aplikasi lain atas perintah tertentu. Perintah tersebut ditangani oleh sebuah method dari class ContentResolver. Data dapat disimpan dalam sistem file, database atau di tempat lainnya. ContentProvider diimplementasikan sebagai subclass dari class ContentProvider dan harus menerapkan satu set standar API yang memungkinkan aplikasi lain untuk melakukan transaksi.</string>
+    <string name="link_cont">http://android-beginner-lessons.blogspot.com/2015/10/android-mengenal-komponen-aplikasi.html </string>
+    <string name="buttonc">Contoh Syntax Content Providers</string>
+
+    <string name="materi_broadcastreceivers">Broadcast Receiver berfungsi menerima pesan intent dari aplikasi lain atau dari sistem. Sebagai contoh, suatu aplikasi mengirim pesan berisi perintah tertentu untuk aplikasi lain bahwa beberapa data telah diunduh ke perangkat dan tersedia bagi mereka untuk menggunakan apklikasi tersebut, jadi Broadcast Receiver inilah yang akan menangani komunikasi ini dan akan melakukan tindakan yang tepat.Sebuah Broadcast Receiver diimplementasikan sebagai subclass dari class BroadcastReceiver dan setiap pesan akan dikirim dan diterima sebagai objek Intent.</string>
+    <string name="link_broad">http://android-beginner-lessons.blogspot.com/2015/10/android-mengenal-komponen-aplikasi.html </string>
+    <string name="buttond">Contoh Syntax Broadcast Receivers</string>
+
+
+</resources>
